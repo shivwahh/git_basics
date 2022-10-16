@@ -92,13 +92,26 @@ Git log is a utility tool to review and read a history of everything that happen
 ### Task 2 
 - Consider that your want to start an open-source project in your organization. Perform all the standard operation to create a repository with minimal permision for all the users. It should contain.
 1. Proper open source structure 
+![2 1](https://user-images.githubusercontent.com/94276578/196052713-187168d7-b3f6-4abf-a154-48907ebbb34d.jpg)
+
 2. Proper Readme
+![2 2](https://user-images.githubusercontent.com/94276578/196052718-700a1ad6-20c1-4cc6-88db-69745eaa4541.jpg)
+
 3. Add 2 collaborator 
+![2 3](https://user-images.githubusercontent.com/94276578/196052726-47145f0b-6554-4fbf-a7ac-f312671e327b.jpg)
+
 4. Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
+![2 4](https://user-images.githubusercontent.com/94276578/196052742-12a0fddb-74ea-4206-9bd4-0c0be5399940.jpg)
+
+
 
 ### Task 3 
 1. Create a Issue in your github repository.
+![3 1](https://user-images.githubusercontent.com/94276578/196052748-0d42cd3c-4b54-43f3-8a79-8dcfba80433e.jpg)
+
 2. Raise a pull request.
+![3 2](https://user-images.githubusercontent.com/94276578/196052760-8c9640ae-b3bc-4722-b613-33cea8eff0db.jpg)
+
 3. Merge A pull request.
 4. Reject a pull request with proper comments.
 5. Add a Dependabot alerts in your github.(for above cases)

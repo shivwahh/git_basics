@@ -92,7 +92,6 @@ Git log is a utility tool to review and read a history of everything that happen
 ### Task 2 
 - Consider that your want to start an open-source project in your organization. Perform all the standard operation to create a repository with minimal permision for all the users. It should contain.
 1. Proper open source structure 
-![2 1](https://user-images.githubusercontent.com/94276578/196052713-187168d7-b3f6-4abf-a154-48907ebbb34d.jpg)
 
 2. Proper Readme
 ![2 2](https://user-images.githubusercontent.com/94276578/196052718-700a1ad6-20c1-4cc6-88db-69745eaa4541.jpg)

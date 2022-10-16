@@ -101,6 +101,7 @@ Git log is a utility tool to review and read a history of everything that happen
 ![2 3](https://user-images.githubusercontent.com/94276578/196052726-47145f0b-6554-4fbf-a7ac-f312671e327b.jpg)
 
 4. Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
+https://shivwahh.github.io/git_basics/
 ![2 4](https://user-images.githubusercontent.com/94276578/196052742-12a0fddb-74ea-4206-9bd4-0c0be5399940.jpg)
 
 
